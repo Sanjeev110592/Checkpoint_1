@@ -115,5 +115,25 @@ hr{
 	width: 40%;
 	border: dotted 1px;
 }
+#two{
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+.cont{
+	width: 660px;
+	height: 150px;
+	border: 2px solid black;
+	margin: auto;
+	padding: 15px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.box{
+	display: inline-block;
+	width: 200px;
+	height: 100%;
+	background-color: rgb(77, 77, 133);
+	border: 2px solid black;margin-right: 13px;
+}
 
 
